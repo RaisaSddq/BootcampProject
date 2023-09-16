@@ -1,0 +1,30 @@
+nav{
+    background-color: #dbb407;
+    text-align: left;
+    padding: 5px;
+    overflow: hidden;
+}
+.main-menu{
+    float: right;
+}
+.menu{
+    float: right;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 10px;
+}
+.img{
+    width:100%;
+
+}
+header{
+    text-align: center;
+}
+h3{
+    text-align: justify;
+    padding-left:50px;
+    padding-right: 50px;
+}
+#text{
+    color:rgb(15, 53, 87);
+}
